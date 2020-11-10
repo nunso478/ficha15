@@ -1,0 +1,15 @@
+.btn{
+    width: 200px;
+    height: 100px;
+    background-color: blueviolet;
+    color: wheat;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    transition-duration: 200ms;
+}
+.btn:hover{
+    background-color: green;
+    width: 180px;
+    height: 90px;
+}
